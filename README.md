@@ -2,8 +2,7 @@
 
 ## Representatives: CV.js, PyCHO, beCraft, beCamp, #cville IRC [add more!]
 
-This code of conduct is a collaboration between several groups to proactively create an inclusive harassment-free environment in our communities. If you have comments or would like to contribute, please submit an [https://github.com/cville/conduct/issues](Issue).
-
+This code of conduct is a collaboration between several groups to proactively create an inclusive harassment-free environment in our communities. If you have comments or would like to contribute, please submit an [https://github.com/cville/conduct/issues](issue).
 
 ## Code of Conduct Summary
 
@@ -13,9 +12,9 @@ We are dedicated to providing a harassment-free experience for everyone regardle
 
 ## Anti-harassment Policy
 
-Harassment includes verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Harassment includes verbal comments that reinforce social structures of domination -- related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event . If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact organizers immediately.
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact organizers immediately.
 
 Organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We expect participants to follow these rules at all event venues and social events. We value your attendance.
 
@@ -39,7 +38,7 @@ Any organizer can issue a verbal warning to a participant that their behavior vi
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although an organizer should speak to the presenter afterward. However, organizers should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
 
-### Taking reports
+### Taking Reports
 
 When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them to provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s). If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
@@ -60,11 +59,11 @@ A participant may be expelled by the decision of any of the above listed entitie
 * A third offense resulting in a warning from staff
 * Continuing to harass after any "No" or "Stop" instruction
 * A pattern of harassing behavior, with or without warnings
-* Any harrasment including physical contact (e.g., punching or groping someone)
+* Any harassment including physical contact (e.g., punching or groping someone)
 * Any intentional (including non-physical) offense (e.g., taking up-skirt photos)
 * Organizers and local authorities should be contacted when appropriate.
 
-### Public statements
+### Public Statements
 
 As a general rule, organizers should not make any public statements about the behavior of individual people during or after the event.
 
