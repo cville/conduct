@@ -77,7 +77,9 @@ As a general rule, organizers should not make any public statements about the be
 
 In general, consult with other organizers when possible but act when necessary.
 
-### License
+---
+
+## License
 
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
