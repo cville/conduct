@@ -1,12 +1,20 @@
-# Charlottesville Meetup Code of Conduct
-
-## Representatives: CV.js, PyCHO, beCraft, beCamp, #cville IRC [add more!]
-
-This code of conduct is a collaboration between several groups to proactively create an inclusive harassment-free environment in our communities. If you have comments or would like to contribute, please submit an [https://github.com/cville/conduct/issues](issue).
+# Charlottesville Meetup/Event/Group Code of Conduct
 
 ## Code of Conduct Summary
 
-We are dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers. Our anti-harassment policy can be found at [https://github.com/cville/conduct](https://github.com/cville/conduct)
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers. Our anti-harassment policy can be found at [https://github.com/cville/conduct](github.com/cville/conduct).
+
+---
+
+## About this Code of Conduct
+
+This code of conduct is a collaboration in the Charlottesville community to proactively create a safe and inclusive environment for participants meetups, events, and online groups. Organizers implement this Code of Conduct by doing the following:
+
+1. Link this Code of Conduct to the main page of the organization.
+2. Provide contact information of an Organizer with the Code of Conduct link.
+3. Summarize this Code of Conduct at the start of the event.
+
+Contributors to this Code of Conduct are [https://github.com/cville/conduct/graphs/contributors](listed here). If you have comments or would like to contribute, you can submit a note or a pull request in the [https://github.com/cville/conduct/issues](issues) area.
 
 ---
 
