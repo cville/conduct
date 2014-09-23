@@ -8,7 +8,7 @@ We are dedicated to providing an inclusive and harassment-free experience for ev
 
 ## About this Code of Conduct
 
-This code of conduct is a collaboration in the Charlottesville community to proactively create a safe and inclusive environment for participants meetups, events, and online groups. Organizers implement this Code of Conduct by doing the following:
+This code of conduct is a collaboration in the Charlottesville community to proactively create a safe and inclusive environment for participants of meetups, events, and online groups. Organizers implement this Code of Conduct by doing the following:
 
 1. Link this Code of Conduct to the main page of the organization.
 2. Provide contact information of an Organizer with the Code of Conduct link.
