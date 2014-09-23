@@ -2,7 +2,7 @@
 
 ## Code of Conduct Summary
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers. Our anti-harassment policy can be found at [https://github.com/cville/conduct](github.com/cville/conduct).
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
 
 ---
 
@@ -14,7 +14,7 @@ This code of conduct is a collaboration in the Charlottesville community to proa
 2. Provide contact information of an Organizer with the Code of Conduct link.
 3. Summarize this Code of Conduct at the start of the event.
 
-Contributors to this Code of Conduct are [https://github.com/cville/conduct/graphs/contributors](listed here). If you have comments or would like to contribute, you can submit a note or a pull request in the [https://github.com/cville/conduct/issues](issues) area.
+Contributors to this Code of Conduct are [listed here](https://github.com/cville/conduct/graphs/contributors). If you have comments or would like to contribute, you can submit a note or a pull request in the [issues](https://github.com/cville/conduct/issues) area.
 
 ---
 
@@ -81,4 +81,4 @@ In general, consult with other organizers when possible but act when necessary.
 
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
-It was forked on Sep 23, 2014, from the example policy from the [http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy](Geek Feminism wiki), created by the Ada Initiative and other volunteers.
+It was forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
