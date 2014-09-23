@@ -73,4 +73,4 @@ In general, consult with other organizers when possible but act when necessary.
 
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
-It was forked on Sep 23, 2014, from the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+It was forked on Sep 23, 2014, from the example policy from the [http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy](Geek Feminism wiki), created by the Ada Initiative and other volunteers.
