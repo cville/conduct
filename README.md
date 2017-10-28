@@ -2,7 +2,7 @@
 
 ## The Short Version
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
 
 ---
 
@@ -29,7 +29,7 @@ Contributors to this Code of Conduct are [listed here](https://github.com/cville
 
 ## Anti-harassment Policy
 
-Harassment includes verbal comments that reinforce social structures of domination -- related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status -- as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Harassment includes verbal comments that reinforce social structures of domination -- related to gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, or socioeconomic status -- as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the group. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact organizers immediately.
 
