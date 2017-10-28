@@ -14,7 +14,9 @@ This code of conduct is a collaboration in the Charlottesville community to proa
 2. Provide contact information of an Organizer with the Code of Conduct link.
 3. Summarize this Code of Conduct at the start of events.
 
-Contributors to this Code of Conduct are [listed here](https://github.com/cville/conduct/graphs/contributors). If you have comments or would like to contribute, you can submit a note or a pull request in the [issues](https://github.com/cville/conduct/issues) area. You can find a wiki list of known organizations using this Code of Conduct [here](https://github.com/cville/conduct/wiki/Organizations-using-this-code-of-conduct).
+Contributors to this Code of Conduct are [listed here](https://github.com/cville/conduct/graphs/contributors). If you would like to comment or contribute revisions, you can submit a note or a pull request in the [issues](https://github.com/cville/conduct/issues) area. See [previous discussions here](https://github.com/cville/conduct/issues?q=). You can find a wiki list of known organizations using this Code of Conduct [here](https://github.com/cville/conduct/wiki/Organizations-using-this-code-of-conduct).
+
+In particular, note that any feedback to the Code of Conduct is itself subject to the Code of Conduct.
 
 ---
 
