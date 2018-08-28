@@ -29,6 +29,19 @@ In particular, note that any feedback to the Code of Conduct is itself subject t
 
 ---
 
+## Inclusion
+
+The following behaviors are expected and requested of all community members:
+
+* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of your community.
+* Exercise consideration and respect in your speech and actions.
+* Attempt collaboration before conflict.
+* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+
+---
+
 ## Anti-harassment Policy
 
 Harassment includes verbal comments that reinforce social structures of domination -- gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, occupation, income, or socioeconomic status -- as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -95,3 +108,5 @@ In general, consult with other organizers when possible but act when necessary.
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
 It was forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
+
+Additional content from https://github.com/stumpsyn/policies was added on Aug 28, 2018
