@@ -14,6 +14,37 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
 * **UVA Health System Emergency Department:** 434-924-2231.
 
 
+## Table of Contents
+
+- [Scope & Purpose](#scope--purpose)
+- [Disclaimer](#disclaimer)
+- [What to Do](#what-to-do)
+  * [Every Day](#every-day)
+  * [When you are affected by misconduct](#when-you-are-affected-by-misconduct)
+  * [When you witness misconduct](#when-you-witness-misconduct)
+  * [When an organizer talks with you about this code of conduct](#when-an-organizer-talks-with-you-about-this-code-of-conduct)
+  * [When you organize an event](#when-you-organize-an-event)
+    + [Up front](#up-front)
+    + [When there is a health/safety issue](#when-there-is-a-healthsafety-issue)
+    + [When addressing misconduct](#when-addressing-misconduct)
+    + [When you need to ask someone to leave the community](#when-you-need-to-ask-someone-to-leave-the-community)
+    + [When misconduct is public](#when-misconduct-is-public)
+- [Misconduct](#misconduct)
+  * [Compromising health & safety](#compromising-health--safety)
+  * [Violating personal space](#violating-personal-space)
+  * [Violating digital security](#violating-digital-security)
+  * [Reinforcing social structures of domination](#reinforcing-social-structures-of-domination)
+  * [Targeting minority groups](#targeting-minority-groups)
+  * [References to sexual or other NSFW topics](#references-to-sexual-or-other-nsfw-topics)
+  * [Repeating invitations](#repeating-invitations)
+  * [Disrupting talks, discussion threads, or other events.](#disrupting-talks-discussion-threads-or-other-events)
+- [Accessibility](#accessibility)
+- [About this Code of Conduct](#about-this-code-of-conduct)
+  * [Why?](#why)
+  * [What about ...?](#what-about-)
+- [License](#license)
+
+
 ## Scope & Purpose
 
 This code of conduct covers participation with any community group or event, in person or through any media, in which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, they are saying that they are dedicated to providing a safe, inclusive, and accessible experience for _everyone_.
