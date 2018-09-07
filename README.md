@@ -179,9 +179,9 @@ Misconduct includes sustained disruption of a talk, discussion thread, or other 
 
 ### Up front
 
-* Clearly identify yourself as the organizer, with contact information, so that participants know how to reach you.
+* Clearly identify yourself as lead organizer or co-organizer, with contact information, so that participants know how to reach you.
 * Become familiar with the code of conduct. Reach out to other organizers to discuss topics and find support in implementing the code of conduct.
-* Identify/deputize assistants, confirmed participants who are trusted, who can become familiar with the code of conduct and be prepared to join in taking action as needed.
+* Identify and deputize assistant organizers, confirmed participants of trust, who can become familiar with the code of conduct and be prepared to join in taking action as needed.
 * Plan how you will respond to misconduct and emergencies.
 
 
@@ -194,11 +194,11 @@ Prioritize health and safety of participants, above all else. With health/safety
 
 ### When addressing misconduct
 
-1. Seek counsel with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct.
-2. Review again the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
-3. With fellow organizers, discuss a plan to resolve the issue of misconduct. Document details to support the plan.
-4. Carry out that plan.
-5. Follow up to ensure that the air is clear for the person affected, the person with whom you provided feedback on the code of conduct, and for the community.
+1. **Seek counsel** with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct.
+2. **Review again** the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
+3. With fellow organizers, **discuss a plan** to resolve the issue of misconduct. Document details to support the plan.
+4. **Carry out that plan**.
+5. Follow up to **ensure that the air is clear** for the person affected, the person with whom you provided feedback on the code of conduct, and for the community.
 
 
 ### When you need to ask someone to leave the community
@@ -223,7 +223,7 @@ Following the previous section, find consensus with other organizers to remove a
 Notes:
 
 * By supporting alternative narratives, shame no one for making a mistake.
-* Address malice swiftly and with force.
+* Address malice swiftly and assertively.
 * Unpack issues privately where possible.
 * Speak publicly to make clear to others that the conduct is indeed _misconduct_ or is otherwise being evaluated as such.
 
