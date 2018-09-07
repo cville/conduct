@@ -42,6 +42,7 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
 - [Accessibility](#accessibility)
 - [About this Code of Conduct](#about-this-code-of-conduct)
   * [Why?](#why)
+  * [Why is it so long?](#why-is-it-so-long)
   * [What about ...?](#what-about-)
 - [License](#license)
 
@@ -235,6 +236,14 @@ If you have a preference or need to support full participation as it relates to 
 You are welcome to ask, respectfully. Note that others will specifically seek out a code of conduct when choosing to participate, and of course, any feedback on the code of conduct is subject to the code of conduct itself.
 
 Why? The rules allow everyone space and respect.
+
+
+### Why is it so long?
+
+The code of conduct names expectations on each member of the community, naming specific behaviors which are acceptable or not. To accomplish this, the code of conduct needs to provide a balance between:
+
+* A short version, which (a) is a quick read, and (b) has enough detail to understand the long version.
+* A long version, which makes very clear how to implement the code of conduct and respond to specific scenarios.
 
 
 ### What about ...?
