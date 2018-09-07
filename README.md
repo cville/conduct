@@ -23,12 +23,6 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
   * [When you are affected by misconduct](#when-you-are-affected-by-misconduct)
   * [When you witness misconduct](#when-you-witness-misconduct)
   * [When an organizer talks with you about this code of conduct](#when-an-organizer-talks-with-you-about-this-code-of-conduct)
-- [When you organize an event](#when-you-organize-an-event)
-  * [Up front](#up-front)
-  * [When there is a health/safety issue](#when-there-is-a-healthsafety-issue)
-  * [When addressing misconduct](#when-addressing-misconduct)
-  * [When you need to ask someone to leave the community](#when-you-need-to-ask-someone-to-leave-the-community)
-  * [When misconduct is public](#when-misconduct-is-public)
 - [Misconduct](#misconduct)
   * [Compromising health & safety](#compromising-health--safety)
   * [Violating personal space](#violating-personal-space)
@@ -39,6 +33,12 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
   * [Repeating invitations](#repeating-invitations)
   * [Discussing national politics in public](#discussing-national-politics-in-public)
   * [Disrupting talks, discussion threads, or other events.](#disrupting-talks-discussion-threads-or-other-events)
+- [When you organize an event](#when-you-organize-an-event)
+  * [Up front](#up-front)
+  * [When there is a health/safety issue](#when-there-is-a-healthsafety-issue)
+  * [When addressing misconduct](#when-addressing-misconduct)
+  * [When you need to ask someone to leave the community](#when-you-need-to-ask-someone-to-leave-the-community)
+  * [When misconduct is public](#when-misconduct-is-public)
 - [Accessibility](#accessibility)
 - [About this Code of Conduct](#about-this-code-of-conduct)
   * [Why?](#why)
@@ -110,59 +110,6 @@ Notes:
 * Repeat issues or patterns of misconduct are taken more seriously than an isolated issue.
 
 
-## When you organize an event
-
-### Up front
-
-* Clearly identify yourself as the organizer, with contact information, so that participants know how to reach you.
-* Become familiar with the code of conduct. Reach out to other organizers to discuss topics and find support in implementing the code of conduct.
-* Identify/deputize assistants, confirmed participants who are trusted, who can become familiar with the code of conduct and be prepared to join in taking action as needed.
-* Plan how you will respond to misconduct and emergencies.
-
-
-### When there is a health/safety issue
-
-**In a health/safety or similar emergency, dial 911.**
-
-Prioritize health and safety of participants, above all else. With health/safety issues, follow protocol as directed by emergency service officials. In assault-related cases, as possible and appropriate, advocate for respectful space for the victim. Having to deal with the issue in the open further adds burden to the terrible experience. Seek and support preferences of the victim, and offer to coordinate having other participants of trust walk with the individual, as appropriate and welcomed.
-
-
-### When addressing misconduct
-
-1. Seek counsel with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct.
-2. Review again the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
-3. With fellow organizers, discuss a plan to resolve the issue of misconduct. Document details to support the plan.
-4. Carry out that plan.
-5. Follow up to ensure that the air is clear for the person affected, the person with whom you provided feedback on the code of conduct, and for the community.
-
-
-### When you need to ask someone to leave the community
-
-Following the previous section, find consensus with other organizers to remove a participant from the community, when a person:
-
-* compromises others' health and safety
-* has repeat issues or patterns of misconduct
-* engages in unconscionable behavior
-* is identified to be a participant in a hate group
-* exhibits _any reason_ that causes organizers serious concern
-
-
-### When misconduct is public
-
-1. Be a public presence of good conduct.
-2. Speak openly in public that something is cause for concern in the code of conduct, _but_ ...
-3. Act in a manner which is respectful of alternative narratives.
-4. Take comments to a private setting as early as possible, which may mean _before_ addressing the concern publicly.
-5. Work collaboratively and prioritize clearing the air for everyone.
-
-Notes:
-
-* By supporting alternative narratives, shame no one for making a mistake.
-* Address malice swiftly and with force.
-* Unpack issues privately where possible.
-* Speak publicly to make clear to others that the conduct is indeed _misconduct_ or is otherwise being evaluated as such.
-
-
 ## Misconduct
 
 ### Compromising health & safety
@@ -222,6 +169,59 @@ Unless a group or event identifies as political in nature, it is misconduct to d
 ### Disrupting talks, discussion threads, or other events.
 
 Misconduct includes sustained disruption of a talk, discussion thread, or other event.
+
+
+## When you organize an event
+
+### Up front
+
+* Clearly identify yourself as the organizer, with contact information, so that participants know how to reach you.
+* Become familiar with the code of conduct. Reach out to other organizers to discuss topics and find support in implementing the code of conduct.
+* Identify/deputize assistants, confirmed participants who are trusted, who can become familiar with the code of conduct and be prepared to join in taking action as needed.
+* Plan how you will respond to misconduct and emergencies.
+
+
+### When there is a health/safety issue
+
+**In a health/safety or similar emergency, dial 911.**
+
+Prioritize health and safety of participants, above all else. With health/safety issues, follow protocol as directed by emergency service officials. In assault-related cases, as possible and appropriate, advocate for respectful space for the victim. Having to deal with the issue in the open further adds burden to the terrible experience. Seek and support preferences of the victim, and offer to coordinate having other participants of trust walk with the individual, as appropriate and welcomed.
+
+
+### When addressing misconduct
+
+1. Seek counsel with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct.
+2. Review again the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
+3. With fellow organizers, discuss a plan to resolve the issue of misconduct. Document details to support the plan.
+4. Carry out that plan.
+5. Follow up to ensure that the air is clear for the person affected, the person with whom you provided feedback on the code of conduct, and for the community.
+
+
+### When you need to ask someone to leave the community
+
+Following the previous section, find consensus with other organizers to remove a participant from the community, when a person:
+
+* compromises others' health and safety
+* has repeat issues or patterns of misconduct
+* engages in unconscionable behavior
+* is identified to be a participant in a hate group
+* exhibits _any reason_ that causes organizers serious concern
+
+
+### When misconduct is public
+
+1. Be a public presence of good conduct.
+2. Speak openly in public that something is cause for concern in the code of conduct, _but_ ...
+3. Act in a manner which is respectful of alternative narratives.
+4. Take comments to a private setting as early as possible, which may mean _before_ addressing the concern publicly.
+5. Work collaboratively and prioritize clearing the air for everyone.
+
+Notes:
+
+* By supporting alternative narratives, shame no one for making a mistake.
+* Address malice swiftly and with force.
+* Unpack issues privately where possible.
+* Speak publicly to make clear to others that the conduct is indeed _misconduct_ or is otherwise being evaluated as such.
 
 
 ## Accessibility
