@@ -249,10 +249,12 @@ The code of conduct names expectations on each member of the community, naming s
 * A short version, which (a) is a quick read, and (b) has enough detail to understand the long version.
 * A long version, which makes very clear how to implement the code of conduct and respond to specific scenarios.
 
+The code of conduct is best served as a single document for visibility and transparency to everyone.
+
 
 ### What about ...?
 
-The code of conduct is open source, and you are welcome to contact one of the authors directly (contact information is on GitHub profile pages), open an issue, or send a pull request.
+The code of conduct is open source, and you are welcome to contact one of the authors directly (contact information is on GitHub profile pages), [open an issue](https://github.com/cville/conduct/issues/new), or send a [pull request](https://github.com/cville/conduct/pulls).
 
 
 ## License
