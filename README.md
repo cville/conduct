@@ -101,14 +101,14 @@ Note that, for the purpose of the code of conduct, "an organizer" is anyone who 
 When an organizer talks with you in response to something that you were doing, in the context of this code of conduct:
 
 1. Above all, **stop** whatever you were doing.
-2. As much as possible, **listen** to the feedback provided. This code of conduct has years of history behind it, and most of the time, an organizer will have put significant thought into the situation at hand before contacting you.
-3. Note that for many topics of conduct, the goal is to **create space for others**. You might be contacted about things which are "harmless" or had "good intentions." Very often, the response to the conduct in question is, "others perceive this very differently than you." In those cases, it's not that you are a "problem" but that the community is committed to being inclusive and there's feedback on how to do that. Even if you are not sure how to take it in, it helps to appreciate this context.
+2. As much as possible, **listen** to the feedback provided. This code of conduct has years of history behind it, and most of the time, an organizer will have put significant thought into the situation at hand before talking with you.
+3. Note that for many topics of conduct, the goal is to **create space for others**. You might be contacted about things which are "harmless" or had "good intentions." Very often the response to the conduct in question is, "others perceive this very differently than you." In those cases, it is not that you are a "problem" but that the community is committed to being inclusive and there is feedback on how to do that _in context_. Even if you are not sure how to take it in, it helps to appreciate this context.
 4. If you would like, speak with the organizer to **clarify your intent**, ideally in a private setting. You deserve respect, too. Avoid trying to change minds or explain "how it works"; these are counterproductive.
 5. **Clear the air.** Find consensus with the organizer on how to signal to others that the issue is resolved.
 
 Notes:
 
-* It might not feel like it, but be open to the possibility that an organizer wants your continued participation. The code of conduct is here to clarify how to continue participation after an issue occurs. Seek to repair the situation with others, and in doing so, you will find respect for taking ownership of the issue.
+* It might not feel like it, but be open to the possibility that an organizer wants your continued participation. The code of conduct is here to clarify how to continue participation after an issue occurs. Seek to repair the situation with others, and in doing so, you can find respect for taking ownership of the issue.
 * If discussions are heated, take a few hours or a few days as appropriate to let things cool before taking each of these steps.
 * For serious issues, especially those which compromise others' health and safety, you might be asked to stop participating in the community. Discuss with the organizer how to reinstate your participation, and give some time for a considerate response.
 * Repeat issues or patterns of misconduct are taken more seriously than an isolated issue.
