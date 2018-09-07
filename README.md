@@ -33,10 +33,9 @@ In particular, note that any feedback to the Code of Conduct is itself subject t
 
 The following behaviors are expected and requested of all community members:
 
-* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of your community.
-* Exercise consideration and respect in your speech and actions.
+* You belong. So does the person next to you. Exercise consideration and respect in your speech and actions.
 * Attempt collaboration before conflict.
-* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Acknowledge that a code of conduct is a tool to manage inclusive events (seemingly harmless comments can be perceived very differently by others).
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
