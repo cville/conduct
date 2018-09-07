@@ -128,7 +128,7 @@ Misconduct includes deliberate intimidation, unwelcome physical closeness, inapp
 
 ### Violating digital security
 
-Misconduct includes any behavior which compromises a computer's security, availability of services, personal online privacy, or privacy and security of digital documents. Misconduct further includes encouraging others to participate in an activity which knowingly increases risk of digital privacy and security issues.
+Misconduct includes any behavior which compromises a computer's security, availability of services, personal online privacy, or privacy and security of digital documents. Misconduct further includes encouraging others to participate in an activity which knowingly increases risk of privacy and security issues.
 
 
 ### Reinforcing social structures of domination
@@ -136,7 +136,7 @@ Misconduct includes any behavior which compromises a computer's security, availa
 Misconduct includes any comment which reinforces social structures of domination, as they relate to color, ancestry, national origin, religion, age, sex, sexual orientation, gender identity or expression, marital or family status, physical appearance, physical or mental disability, medical condition, veteran status, actual or presumed belonging to an ethnic group, education, occupation, income, or socioeconomic status.
 
 
-### Targeting minority groups
+### Targeting specific groups
 
 Misconduct includes solicitation of input to find someone in the community to speak to the whole of a demographic or other status based on how that individual personally identifies.
 
@@ -150,19 +150,19 @@ Misconduct includes sexual references or images and other topics generally consi
 
 ### Repeating invitations
 
-Misconduct includes repeat invitations to _anything_ when a person has directly declined or opted not to reply to an invitation.
+Misconduct includes repeat invitations to _anything_ when the target audience has directly declined or opted not to reply to an invitation.
 
-These are acceptable:
+These are acceptable repeat invitations:
 
 * Posting an invitation on a regular basis to a regularly occurring event.
 * Posting reminders of an upcoming event as the date draws near.
 
-These invitations might be guided by organizers to specific channels or media by which the community generally prefers to receive such invitations.
+Organizers might guide invitations to specific channels or media by which the community generally prefers to receive such invitations.
 
 These are _not_ acceptable:
 
 * Not taking "no" (or no answer, which here defaults to "no") for an answer, for anything.
-* Inviting others to a personal party, unless they've opted in to receiving such invitations.
+* Inviting others to a personal party, unless they have opted in to receiving such invitations.
 
 
 ### Discussing national politics in public
