@@ -104,8 +104,14 @@ In general, consult with other organizers when possible but act when necessary.
 
 ## License
 
-This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
+[![CC0][badge]](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Creative Commons Zero | CC0 | "No Rights Reserved"
+
+To the extent possible under law, contributors to this project have waived all copyright and related or neighboring rights of this code of conduct. This work is published from: United States.
 
 It was forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
 
 Additional content from https://github.com/stumpsyn/policies was added on Aug 28, 2018
+
+[badge]: https://licensebuttons.net/p/zero/1.0/88x31.png
