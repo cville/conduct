@@ -21,3 +21,17 @@
   inconsequential.
 * Remember that community event venues may be shared with members of the
   public; please be respectful to all patrons of these locations.
+
+
+## License
+
+[![CC0][badge]](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Creative Commons Zero | CC0 | "No Rights Reserved"
+
+To the extent possible under law, contributors to this project have waived all
+copyright and related or neighboring rights of this code of conduct. This work
+is published from: United States.
+
+
+[badge]: https://licensebuttons.net/p/zero/1.0/88x31.png
