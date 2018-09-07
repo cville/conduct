@@ -1,8 +1,12 @@
 # Charlottesville Community Code of Conduct
 
-## Summary
+## The Short Version
 
-We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. We expect everyone to behave according to this code so that each participant is welcome and empowered to fully contribute to a community which demonstrates respect and behaves without prejudice, discrimination, or threat.
+We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it. So does the person next to you.
+
+This code exists so that everyone can understand what is necessary in order to provide that experience. We expect everyone to behave without misconduct so that each participant is welcome and empowered to fully contribute to a community which demonstrates respect and behaves without prejudice, discrimination, or threat. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
+
+Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code.
 
 
 ## Useful Phone Numbers
