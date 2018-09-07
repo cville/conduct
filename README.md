@@ -6,6 +6,8 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
 
 This code exists so that everyone can understand what is necessary in order to provide that experience. We expect everyone to behave without misconduct so that each participant is welcome and empowered to fully contribute to a community which demonstrates respect and behaves without prejudice, discrimination, or threat. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
 
+Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
+
 Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code.
 
 
@@ -72,6 +74,12 @@ Community members have authored this code of conduct. This is not a legal guide,
 * Exercise consideration and respect in your writing, speech, and actions. You belong, and so does the next person.
 * Attempt collaboration before conflict.
 * Acknowledge that a code of conduct is a tool to manage inclusive events; seemingly harmless comments can be perceived very differently by others.
+* Welcome others to participate.
+ * Show restraint when discussing controversial topics.
+ * Allow pauses for others to join the conversation.
+ * React with a collaborative and inviting posture.
+ * Help guide what is considered on- and off-topic
+ * Be on-topic when adding to the discussion.
 * Be mindful of your surroundings and of your fellow participants. Alert community organizers if you notice a health/safety issue, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
