@@ -53,9 +53,9 @@ Specific forms of misconduct are named within the table of contents. Other secti
 
 ## Scope & Purpose
 
-This code of conduct covers participation with any community group or event, in person or through any media, in which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, they are saying that they are dedicated to providing a safe, inclusive, and accessible experience for _everyone_.
+This code of conduct covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, they are saying that they are dedicated to providing a safe, inclusive, and accessible experience for _everyone_.
 
-Your everyday rights are respected. This document names conduct and misconduct with the goal to maintain a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code. You have a right to free speech, for instance, but other participants in _this community_ will not tolerate that speech when it goes against the code of conduct.
+Your everyday rights are respected. This document names conduct and misconduct with the goal to maintain a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code. You have a right to free speech, for instance, but other participants in _this community_ will not tolerate that speech when it goes against the code of conduct. You may find some behavior appropriate in one setting which is deemed inappropriate in the context of the full community.
 
 The community is a resource to everyone, and as a resource, is more valuable as it has contribution from more diverse perspectives. Proper conduct provides respectful space for everyone to feel welcome and to contribute.
 
