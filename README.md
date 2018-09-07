@@ -75,11 +75,11 @@ Community members have authored this code of conduct. This is not a legal guide,
 * Attempt collaboration before conflict.
 * Acknowledge that a code of conduct is a tool to manage inclusive events; seemingly harmless comments can be perceived very differently by others.
 * Welcome others to participate.
- * Show restraint when discussing controversial topics.
- * Allow pauses for others to join the conversation.
- * React with a collaborative and inviting posture.
- * Help guide what is considered on- and off-topic
- * Be on-topic when adding to the discussion.
+  * Show restraint when discussing controversial topics.
+  * Allow pauses for others to join the conversation.
+  * React with a collaborative and inviting posture.
+  * Help guide what is considered on- and off-topic
+  * Be on-topic when adding to the discussion.
 * Be mindful of your surroundings and of your fellow participants. Alert community organizers if you notice a health/safety issue, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
