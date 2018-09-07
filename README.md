@@ -2,7 +2,7 @@
 
 ## The Short Version
 
-We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it. So does the person next to you.
+We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it, and so does the next person.
 
 This code exists so that everyone can understand what is necessary in order to provide that experience. We expect everyone to behave without misconduct so that each participant is welcome and empowered to fully contribute to a community which demonstrates respect and behaves without prejudice, discrimination, or threat. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
 
@@ -69,7 +69,7 @@ Community members have authored this code of conduct. This is not a legal guide,
 
 ### Every Day
 
-* Exercise consideration and respect in your writing, speech, and actions. You belong. So does the person next to you.
+* Exercise consideration and respect in your writing, speech, and actions. You belong, and so does the next person.
 * Attempt collaboration before conflict.
 * Acknowledge that a code of conduct is a tool to manage inclusive events; seemingly harmless comments can be perceived very differently by others.
 * Be mindful of your surroundings and of your fellow participants. Alert community organizers if you notice a health/safety issue, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
