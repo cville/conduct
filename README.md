@@ -167,7 +167,7 @@ These are _not_ acceptable:
 
 ### Discussing national politics in public
 
-Unless a group or event identifies as political in nature, it is misconduct to discuss or otherwise convey political views in public areas of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. You can advocate for creating areas in the community in which political discussions are appropriate, but refrain from discussing politics outside of such areas.
+Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public areas of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating areas in the community in which political discussions are appropriate.
 
 
 ### Disrupting talks, discussion threads, or other events.
