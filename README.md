@@ -37,6 +37,7 @@ We are dedicated to providing a safe, inclusive, and accessible experience for _
   * [Targeting minority groups](#targeting-minority-groups)
   * [References to sexual or other NSFW topics](#references-to-sexual-or-other-nsfw-topics)
   * [Repeating invitations](#repeating-invitations)
+  * [Discussing national politics in public](#discussing-national-politics-in-public)
   * [Disrupting talks, discussion threads, or other events.](#disrupting-talks-discussion-threads-or-other-events)
 - [Accessibility](#accessibility)
 - [About this Code of Conduct](#about-this-code-of-conduct)
@@ -210,6 +211,11 @@ These are _not_ acceptable:
 
 * Not taking "no" (or no answer, which here defaults to "no") for an answer, for anything.
 * Inviting others to a personal party, unless they've opted in to receiving such invitations.
+
+
+### Discussing national politics in public
+
+Unless a group or event identifies as political in nature, it is misconduct to discuss or otherwise convey political views in public areas of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. You can advocate for creating areas in the community in which political discussions are appropriate, but refrain from discussing politics outside of such areas.
 
 
 ### Disrupting talks, discussion threads, or other events.
