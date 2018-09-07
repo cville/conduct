@@ -10,17 +10,11 @@
 
 ## Inclusion
 
-* Exercise consideration and respect in your writing, speech, and actions. You
-  belong. So does the person next to you.
+* Exercise consideration and respect in your writing, speech, and actions. You belong. So does the person next to you.
 * Attempt collaboration before conflict.
-* Acknowledge that a code of conduct is a tool to manage inclusive events;
-  seemingly harmless comments can be perceived very differently by others.
-* Be mindful of your surroundings and of your fellow participants. Alert
-  community organizers if you notice a dangerous situation, someone in
-  distress, or violations of this code of conduct, even if they seem
-  inconsequential.
-* Remember that community event venues may be shared with members of the
-  public; please be respectful to all patrons of these locations.
+* Acknowledge that a code of conduct is a tool to manage inclusive events; seemingly harmless comments can be perceived very differently by others.
+* Be mindful of your surroundings and of your fellow participants. Alert community organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+* Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 
 ## License
@@ -29,9 +23,7 @@
 
 Creative Commons Zero | CC0 | "No Rights Reserved"
 
-To the extent possible under law, contributors to this project have waived all
-copyright and related or neighboring rights of this code of conduct. This work
-is published from: United States.
+To the extent possible under law, contributors to this project have waived all copyright and related or neighboring rights of this code of conduct. This work is published from: United States.
 
 
 [badge]: https://licensebuttons.net/p/zero/1.0/88x31.png
