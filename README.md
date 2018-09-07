@@ -1,14 +1,16 @@
-# Charlottesville Community Code of Conduct
+# Charlottesville Community Code of Conduct (CCCoC)
 
 ## The Short Version
 
-We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it, and so does the next person.
+Mission. We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it, and so does the next person.
 
-This code exists so that everyone can understand what is necessary in order to provide that experience. We expect everyone to behave without misconduct so that each participant is welcome and empowered to fully contribute to a community which demonstrates respect and behaves without prejudice, discrimination, or threat. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
+Purpose. The CCCoC describes how individuals committed to creating an inclusive experience must comport themselves. The code defines and sanctions misconduct for the sake of the full community; adherence allows each participant to be welcome and to feel empowered to contribute fully. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community. 
 
-Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
+Expections. Members of our community demonstrate respect toward all other members and behave, while in virtual or in-person community spaces, without prejudice, discrimination, or threat. 
 
-Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code.
+Exhortations. Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
+
+For more information. Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code.
 
 
 ## Useful Phone Numbers
@@ -55,11 +57,12 @@ Specific forms of misconduct are named within the table of contents. Other secti
 
 ## Scope & Purpose
 
-This code of conduct covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, they are saying that they are dedicated to providing a safe, inclusive, and accessible experience for _everyone_.
+The CCCoC covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, the organizer(s) commit(s) to providing a safe, inclusive, and accessible experience for _everyone_.
 
-Your everyday rights are respected. This document names conduct and misconduct with the goal to maintain a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code. You have a right to free speech, for instance, but other participants in _this community_ will not tolerate that speech when it goes against the code of conduct. You may find some behavior appropriate in one setting which is deemed inappropriate in the context of the full community.
+The community is a resource for everyone; its value increases through broader participation. Proper conduct provides respectful space for everyone to feel welcome and to contribute.
 
-The community is a resource to everyone, and as a resource, is more valuable as it has contribution from more diverse perspectives. Proper conduct provides respectful space for everyone to feel welcome and to contribute.
+This document defines appropriate conduct and misconduct toward the goal of creating and maintaining a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code. The constitutional right to free speech notwithstanding, participants in _this community_ will not tolerate speech that goes against the code of conduct. The CCCoC applies to behavior _in context_. Behavior appropriate in one setting may be deemed inappropriate in the context of the full community.
+
 
 
 ## Disclaimer
@@ -72,8 +75,8 @@ Community members have authored this code of conduct. This is not a legal guide,
 ### Every Day
 
 * Exercise consideration and respect in your writing, speech, and actions. You belong, and so does the next person.
+* Avoid assumptions about your audience; seemingly harmless comments can be perceived very differently by others.
 * Attempt collaboration before conflict.
-* Acknowledge that a code of conduct is a tool to manage inclusive events; seemingly harmless comments can be perceived very differently by others.
 * Welcome others to participate.
   * Show restraint when discussing controversial topics.
   * Allow pauses for others to join the conversation.
@@ -141,7 +144,7 @@ Misconduct includes any behavior which compromises a computer's security, availa
 
 ### Reinforcing social structures of domination
 
-Misconduct includes any comment which reinforces social structures of domination, as they relate to color, ancestry, national origin, religion, age, sex, sexual orientation, gender identity or expression, marital or family status, physical appearance, physical or mental disability, medical condition, veteran status, actual or presumed belonging to an ethnic group, education, occupation, income, or socioeconomic status.
+Misconduct includes any comment which reinforces social structures of domination, as they relate to color, ancestry, national origin, religion, age, sex, sexual orientation, gender identity or expression, marital or family status, physical appearance, physical or mental disability, medical condition, veteran status, immigration or naturalization status, actual or presumed belonging to an ethnic group, education, occupation, income, or socioeconomic status.
 
 
 ### Targeting specific groups
@@ -151,7 +154,7 @@ Misconduct includes solicitation of input to find someone in the community to sp
 Note that comments targeting groups in a position of minority, particularly when the individual commenting does not identify as belonging to that position, is potentially left open to perception that such a comment reinforces social structures of domination.
 
 
-### References to sexual or other NSFW topics
+### References to sexual or other not-suitable-for-work (NSFW) topics
 
 Misconduct includes sexual references or images and other topics generally considered not suitable for work (NSFW).
 
