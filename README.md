@@ -39,7 +39,7 @@
   * [Targeting specific groups](#targeting-specific-groups)
   * [References to sexual or other not-suitable-for-work (NSFW) topics](#references-to-sexual-or-other-not-suitable-for-work-nsfw-topics)
   * [Repeating invitations](#repeating-invitations)
-  * [Discussing national politics in public](#discussing-national-politics-in-public)
+  * [Discussing national politics in public spaces](#discussing-national-politics-in-public-spaces)
   * [Disrupting talks, discussion threads, or other events.](#disrupting-talks-discussion-threads-or-other-events)
 - [When you organize an event](#when-you-organize-an-event)
   * [Up front](#up-front)
@@ -178,9 +178,9 @@ These are _not_ acceptable:
 * Inviting others to a personal party, unless they have opted in to receiving such invitations.
 
 
-### Discussing national politics in public
+### Discussing national politics in public spaces
 
-Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public areas of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating areas in the community in which political discussions are appropriate.
+Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public spaces of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating spaces in the community in which political discussions are appropriate.
 
 
 ### Disrupting talks, discussion threads, or other events.
