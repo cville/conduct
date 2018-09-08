@@ -6,7 +6,7 @@
 
 **Purpose.** The code of conduct describes how individuals committed to creating an inclusive experience must comport themselves. It defines and sanctions misconduct for the sake of the full community; adherence allows each participant to be welcome and to feel empowered to contribute fully. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
 
-**Expections.** Members of our community demonstrate respect toward all other members and behave, while in virtual or in-person community spaces, without prejudice, discrimination, or threat.
+**Expectations.** Members of our community demonstrate respect toward all other members and behave, while in virtual or in-person community spaces, without prejudice, discrimination, or threat.
 
 **Exhortations.** Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
 
