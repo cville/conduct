@@ -10,7 +10,7 @@
 
 **Exhortations.** Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
 
-For more information. Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code of conduct.
+**Implementation.** Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code of conduct.
 
 
 ## Useful Phone Numbers
