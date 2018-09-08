@@ -1,0 +1,15 @@
+.#*
+*~
+\#*
+*.db
+*.db-journal
+*.doc
+*.docx
+.DS_Store
+/.emacs*
+__MACOSX
+*.out
+*.pdf
+*.pyc
+*.sw*
+toc.md
