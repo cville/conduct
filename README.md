@@ -1,16 +1,16 @@
-# Charlottesville Community Code of Conduct (CCCoC)
+# Charlottesville Community Code of Conduct
 
 ## The Short Version
 
 Mission. We are dedicated to providing a safe, inclusive, and accessible experience for _everyone_. Simply by joining the community, you belong in it, and so does the next person.
 
-Purpose. The CCCoC describes how individuals committed to creating an inclusive experience must comport themselves. The code defines and sanctions misconduct for the sake of the full community; adherence allows each participant to be welcome and to feel empowered to contribute fully. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community. 
+Purpose. The code of conduct describes how individuals committed to creating an inclusive experience must comport themselves. It defines and sanctions misconduct for the sake of the full community; adherence allows each participant to be welcome and to feel empowered to contribute fully. This code of conduct is about behavior _in context_. Behavior which is acceptable in some settings may not be appropriate in the context of the full community.
 
-Expections. Members of our community demonstrate respect toward all other members and behave, while in virtual or in-person community spaces, without prejudice, discrimination, or threat. 
+Expections. Members of our community demonstrate respect toward all other members and behave, while in virtual or in-person community spaces, without prejudice, discrimination, or threat.
 
 Exhortations. Welcome others to participate. Show restraint when discussing controversial topics, allow pauses for others to join the conversation, react with a collaborative and inviting posture, help guide what is considered on- and off-topic, and be on-topic when adding to the discussion.
 
-For more information. Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code.
+For more information. Specific forms of misconduct are named within the table of contents. Other sections in this document indicate how to interpret conduct and implement the code of conduct.
 
 
 ## Useful Phone Numbers
@@ -57,11 +57,11 @@ For more information. Specific forms of misconduct are named within the table of
 
 ## Scope & Purpose
 
-The CCCoC covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, the organizer(s) commit(s) to providing a safe, inclusive, and accessible experience for _everyone_.
+The code of conduct covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, the organizer(s) commit(s) to providing a safe, inclusive, and accessible experience for _everyone_.
 
 The community is a resource for everyone; its value increases through broader participation. Proper conduct provides respectful space for everyone to feel welcome and to contribute.
 
-This document defines appropriate conduct and misconduct toward the goal of creating and maintaining a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code. The constitutional right to free speech notwithstanding, participants in _this community_ will not tolerate speech that goes against the code of conduct. The CCCoC applies to behavior _in context_. Behavior appropriate in one setting may be deemed inappropriate in the context of the full community.
+This document defines appropriate conduct and misconduct toward the goal of creating and maintaining a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code of conduct. The constitutional right to free speech notwithstanding, participants in _this community_ will not tolerate speech that goes against the code of conduct. The code of conduct applies to behavior _in context_. Behavior appropriate in one setting may be deemed inappropriate in the context of the full community.
 
 
 
