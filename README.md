@@ -180,7 +180,9 @@ These are _not_ acceptable:
 
 ### Discussing national politics in public spaces
 
-Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public spaces of the community. Specific channels or media may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating spaces in the community in which political discussions are appropriate.
+Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public spaces of the community. Specific spaces may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating spaces in the community in which political discussions are appropriate.
+
+Notwithstanding, discussions about _policies_ are generally acceptable. There is a difference between discussing policies in the context of their impact on the community and sharing reactionary comments to recent headlines. While it is acceptable to share reactions generally, reactions to political headlines or controversial topics are only accepted when a group, event, or space identifies as political in nature.
 
 
 ### Disrupting talks, discussion threads, or other events.
