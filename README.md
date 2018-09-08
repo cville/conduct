@@ -57,11 +57,13 @@
 
 ## Scope & Purpose
 
+Read first: [The Short Version](#the-short-version).
+
 The code of conduct covers participation with any community group or event, in person or through any media, for which the respective organizer has posted a link to, or otherwise announced, this code of conduct. By adopting this code of conduct, the organizer(s) commit(s) to providing a safe, inclusive, and accessible experience for _everyone_.
 
 The community is a resource for everyone; its value increases through broader participation. Proper conduct provides respectful space for everyone to feel welcome and to contribute.
 
-This document defines appropriate conduct and misconduct toward the goal of creating and maintaining a safe, inclusive, and accessible community. Participation in the community, therefore, asks that you adhere to this code of conduct. The constitutional right to free speech notwithstanding, participants in _this community_ will not tolerate speech that goes against the code of conduct. The code of conduct applies to behavior _in context_. Behavior appropriate in one setting may be deemed inappropriate in the context of the full community.
+This document defines and sanctions misconduct for the sake of the full community; adherence allows each participant to be welcome and to feel empowered to contribute fully. Participation in the community, therefore, asks that you adhere to this code of conduct. The U.S. constitutional right to free speech notwithstanding, participants in _this community_ will not tolerate speech or actions which go against the code of conduct. The code of conduct applies to behavior _in context_. Behavior appropriate in one setting may be deemed inappropriate in the context of the full community.
 
 
 
