@@ -146,7 +146,7 @@ Misconduct includes any behavior which compromises a computer's security, availa
 
 ### Reinforcing social structures of domination
 
-Misconduct includes any comment which reinforces social structures of domination, as they relate to color, ancestry, national origin, immigration or naturalization status, actual or presumed belonging to an ethnic group, veteran status, religion, age, sex, sexual orientation, gender identity or expression, marital or family status, physical appearance, physical or mental disability, medical condition, education, occupation, income, or socioeconomic status.
+Misconduct includes any comment or action which reinforces social structures of domination, as they relate to color, ancestry, national origin, immigration or naturalization status, actual or presumed belonging to an ethnic group, veteran status, religion, age, sex, sexual orientation, gender identity or expression, marital or family status, physical appearance, physical or mental disability, medical condition, education, occupation, income, or socioeconomic status.
 
 
 ### Targeting specific groups
