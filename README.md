@@ -153,7 +153,7 @@ Misconduct includes any comment or action which reinforces social structures of 
 
 Misconduct includes solicitation of input to find someone in the community to speak to the whole of a demographic or other status based on how that individual personally identifies.
 
-Note that comments targeting groups in a position of minority, particularly when the individual commenting does not identify as belonging to that position, is potentially left open to perception that such a comment reinforces social structures of domination.
+Note that comments targeting specific groups, particularly when the individual commenting does not identify as belonging to that group, is potentially left open to perception that such a comment reinforces social structures of domination (as in the section of misconduct above).
 
 
 ### References to sexual or other not-suitable-for-work (NSFW) topics
