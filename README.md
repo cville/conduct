@@ -220,7 +220,7 @@ Prioritize health and safety of participants, above all else. With health/safety
 
 Following the previous section, find consensus with other organizers to remove a participant from the community, when a person:
 
-* compromises others' health and safety
+* compromises others' health or safety
 * has repeat issues or patterns of misconduct
 * engages in unconscionable behavior
 * is identified to be a participant in a hate group
@@ -245,7 +245,7 @@ Notes:
 
 ## Accessibility
 
-If you have a preference or need to support full participation as it relates to the Americans with Disabilities Act (ADA), or similar request, simply contact an organizer in advance. Events are sometimes hosted informally at an office or other venue which may not be fully equipped. With some lead time on a request, an organizer can seek to relocate an event to a venue which is appropriately laid out and equipped.
+If you have a preference or need to support full participation as it relates to the [Americans with Disabilities Act (ADA)](https://www.ada.gov/pubs/adastatute08.htm), or similar request, simply contact an organizer in advance. Events are sometimes hosted informally at an office or other venue which may not be fully equipped. With some lead time on a request, an organizer can seek to relocate an event to a venue which is appropriately laid out and equipped.
 
 
 ## About this Code of Conduct
@@ -269,7 +269,7 @@ The code of conduct is best served as a single document for visibility and trans
 
 ### What about ...?
 
-The code of conduct is open source, and you are welcome to contact one of the authors directly (contact information is on GitHub profile pages), [open an issue](https://github.com/cville/conduct/issues/new), or send a [pull request](https://github.com/cville/conduct/pulls).
+The code of conduct is open source, and you are welcome to contact the authors directly (contact information is on GitHub profile pages), [open an issue](https://github.com/cville/conduct/issues/new), or send a [pull request](https://github.com/cville/conduct/pulls).
 
 
 ## License
