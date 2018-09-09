@@ -261,7 +261,7 @@ Why? The rules allow everyone space and respect.
 
 The code of conduct names expectations on each member of the community, naming specific behaviors which are acceptable or not. To accomplish this, the code of conduct needs to provide a balance between:
 
-* A short version, which (a) is a quick read, and (b) has enough detail to understand the long version.
+* A short version, which (a) is a quick read, and (b) has enough detail to understand the nature of the long version without having to read the entire long version.
 * A long version, which makes very clear how to implement the code of conduct and respond to specific scenarios.
 
 The code of conduct is best served as a single document for visibility and transparency to everyone.
