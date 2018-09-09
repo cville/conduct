@@ -32,7 +32,7 @@
   * [When you witness misconduct](#when-you-witness-misconduct)
   * [When an organizer talks with you about this code of conduct](#when-an-organizer-talks-with-you-about-this-code-of-conduct)
 - [Misconduct](#misconduct)
-  * [Compromising health & safety](#compromising-health--safety)
+  * [Compromising health/safety](#compromising-healthsafety)
   * [Violating personal space](#violating-personal-space)
   * [Violating digital security](#violating-digital-security)
   * [Reinforcing social structures of domination](#reinforcing-social-structures-of-domination)
@@ -123,15 +123,15 @@ Notes:
 
 * It might not feel like it, but be open to the possibility that an organizer wants your continued participation. The code of conduct is here to clarify how to continue participation after an issue occurs. Seek to repair the situation with others, and in doing so, you can find respect for taking ownership of the issue.
 * If discussions are heated, take a few hours or a few days as appropriate to let things cool before taking each of these steps.
-* For serious issues, especially those which compromise others' health and safety, you might be asked to stop participating in the community. Discuss with the organizer how to reinstate your participation, and give some time for a considerate response.
+* For serious issues, especially those which compromise others' health or safety, you might be asked to stop participating in the community. Discuss with the organizer how to reinstate your participation, and give some time for a considerate response.
 * Repeat issues or patterns of misconduct are taken more seriously than an isolated issue.
 
 
 ## Misconduct
 
-### Compromising health & safety
+### Compromising health/safety
 
-Any conduct which compromises health & safety of any other person, or otherwise increases such risks, will be escalated to emergency services.
+Any conduct which compromises health or safety of any other person, or otherwise increases such risks, will be escalated to emergency services.
 
 
 ### Violating personal space
