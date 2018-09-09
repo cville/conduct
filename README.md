@@ -136,7 +136,7 @@ Any conduct which compromises health or safety of any other person, or otherwise
 
 ### Violating personal space
 
-Misconduct includes deliberate intimidation, unwelcome physical closeness, inappropriate physical contact, stalking, following, unwelcome photography or recording, and unwelcome attention.
+Misconduct includes deliberate intimidation, unwelcome gestures, unwelcome physical closeness, inappropriate physical contact, stalking, following, unwelcome photography or recording, and unwelcome attention.
 
 
 ### Violating digital security
