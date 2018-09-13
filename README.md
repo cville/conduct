@@ -34,6 +34,7 @@
 - [Misconduct](#misconduct)
   * [Compromising health/safety](#compromising-healthsafety)
   * [Violating personal space](#violating-personal-space)
+  * [Physical violence](#physical-violence)
   * [Violating digital security](#violating-digital-security)
   * [Reinforcing social structures of domination](#reinforcing-social-structures-of-domination)
   * [Targeting specific groups](#targeting-specific-groups)
@@ -137,6 +138,11 @@ Any conduct which compromises health or safety of any other person, or otherwise
 ### Violating personal space
 
 Misconduct includes deliberate intimidation, unwelcome gestures, unwelcome physical closeness, inappropriate physical contact, stalking, following, unwelcome photography or recording, and unwelcome attention.
+
+
+### Physical violence
+
+Misconduct includes depictions of physical violence, suggestions that physical violence is acceptable, humor about physical violence, and threats of physical violence. It is generally acceptable to discuss experiences or events, but present media as opt-in as to avoid presenting depictions of physical violence in public spaces.
 
 
 ### Violating digital security
