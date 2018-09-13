@@ -124,7 +124,7 @@ Notes:
 
 * It might not feel like it, but be open to the possibility that an organizer wants your continued participation. The code of conduct is here to clarify how to continue participation after an issue occurs. Seek to repair the situation with others, and in doing so, you can find respect for taking ownership of the issue.
 * If discussions are heated, take a few hours or a few days as appropriate to let things cool before taking each of these steps.
-* For serious issues, especially those which compromise others' health or safety, you might be asked to stop participating in the community. Discuss with the organizer how to reinstate your participation, and give some time for a considerate response.
+* For serious issues, you might be asked to stop participating in the community. Discuss with the organizer how to reinstate your participation, and give some time for a considerate response.
 * Repeat issues or patterns of misconduct are taken more seriously than an isolated issue.
 
 
