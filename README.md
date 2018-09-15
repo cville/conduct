@@ -56,6 +56,7 @@ Charlottesville, Virginia, USA:
   * [Why?](#why)
   * [Why is it so long?](#why-is-it-so-long)
   * [What about ...?](#what-about-)
+  * [How do I link to the code of conduct?](#how-do-i-link-to-the-code-of-conduct)
 - [License](#license)
 
 
@@ -276,6 +277,11 @@ The code of conduct is best served as a single document for visibility and trans
 ### What about ...?
 
 The code of conduct is open source, and you are welcome to contact the authors directly (contact information is on GitHub profile pages), [open an issue](https://github.com/cville/conduct/issues/new), or send a [pull request](https://github.com/cville/conduct/pulls).
+
+
+### How do I link to the code of conduct?
+
+Simply link to the page that you are viewing. For more detail, find [instructions here.](https://github.com/cville/conduct/tree/how-to-link#readme)
 
 
 ## License
