@@ -158,6 +158,8 @@ Misconduct includes activities which induce, mislead, or deceive others into inc
 
 It is acceptable to engage in activities which increase exposure of privacy and security risks when others are informed and provide consent. Misconduct includes advocating for, or encouraging, any activity which increases exposure to the above privacy and security risks without informed consent.
 
+Misconduct further includes targeting another person with any attack vector which would compromise privacy and security, unless that individual has opted into an experiment or test and is informed of the risks and related activities. In addition to the above privacy and security risks, this includes impersonation, spoofing/forging identity, using another person's credentials without consent, and posting or threatening to post personally identifying information ("doxing").
+
 
 ### Reinforcing social structures of domination
 
