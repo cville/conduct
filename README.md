@@ -30,8 +30,8 @@ Charlottesville, Virginia, USA:
 
 - [Scope & Purpose](#scope--purpose)
 - [Disclaimer](#disclaimer)
-- [What to Do](#what-to-do)
-  * [Every Day](#every-day)
+- [What to do](#what-to-do)
+  * [Every day](#every-day)
   * [When you are affected by misconduct](#when-you-are-affected-by-misconduct)
   * [When you witness misconduct](#when-you-witness-misconduct)
   * [When an organizer talks with you about this code of conduct](#when-an-organizer-talks-with-you-about-this-code-of-conduct)
@@ -44,7 +44,7 @@ Charlottesville, Virginia, USA:
   * [References to sexual or other not-suitable-for-work (NSFW) topics](#references-to-sexual-or-other-not-suitable-for-work-nsfw-topics)
   * [Repeating invitations](#repeating-invitations)
   * [Discussing national politics in public spaces](#discussing-national-politics-in-public-spaces)
-  * [Disrupting talks, discussion threads, or other events.](#disrupting-talks-discussion-threads-or-other-events)
+  * [Disrupting talks, discussion threads, or other events](#disrupting-talks-discussion-threads-or-other-events)
 - [When you organize an event](#when-you-organize-an-event)
   * [Up front](#up-front)
   * [When there is a health/safety issue](#when-there-is-a-healthsafety-issue)
@@ -52,7 +52,7 @@ Charlottesville, Virginia, USA:
   * [When you need to ask someone to leave the community](#when-you-need-to-ask-someone-to-leave-the-community)
   * [When misconduct is public](#when-misconduct-is-public)
 - [Accessibility](#accessibility)
-- [About this Code of Conduct](#about-this-code-of-conduct)
+- [About this code of conduct](#about-this-code-of-conduct)
   * [Why?](#why)
   * [Why is it so long?](#why-is-it-so-long)
   * [What about ...?](#what-about-)
@@ -77,9 +77,9 @@ This document defines and sanctions misconduct for the sake of the full communit
 Community members have authored this code of conduct. This is not a legal guide, nor does it provide emergency services. Seek professional assistance for all serious issues. Escalate health and safety issues to emergency services.
 
 
-## What to Do
+## What to do
 
-### Every Day
+### Every day
 
 * Exercise consideration and respect in your writing, speech, and actions. You belong, and so does the next person.
 * Avoid assumptions about your audience; seemingly harmless comments can be perceived very differently by others.
@@ -192,7 +192,7 @@ Unless a group or event identifies as political in nature, misconduct includes d
 Notwithstanding, discussions about _policies_ are generally acceptable. There is a difference between discussing policies in the context of their impact on the community and sharing reactionary comments to recent headlines. While it is acceptable to share reactions generally, reactions to political headlines or controversial topics are only accepted when a group, event, or space identifies as political in nature.
 
 
-### Disrupting talks, discussion threads, or other events.
+### Disrupting talks, discussion threads, or other events
 
 Misconduct includes sustained disruption of a talk, discussion thread, or other event.
 
@@ -255,7 +255,7 @@ Notes:
 If you have a preference or need to support full participation as it relates to the [Americans with Disabilities Act (ADA)](https://www.ada.gov/pubs/adastatute08.htm), or similar request, simply contact an organizer in advance. Events are sometimes hosted informally at an office or other venue which may not be fully equipped. With some lead time on a request, an organizer can seek to relocate an event to a venue which is appropriately laid out and equipped.
 
 
-## About this Code of Conduct
+## About this code of conduct
 
 ### Why?
 
