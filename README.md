@@ -44,6 +44,7 @@ Charlottesville, Virginia, USA:
   * [References to sexual or other not-suitable-for-work (NSFW) topics](#references-to-sexual-or-other-not-suitable-for-work-nsfw-topics)
   * [Repeating invitations](#repeating-invitations)
   * [Discussing national politics in public spaces](#discussing-national-politics-in-public-spaces)
+  * [Inappropriate alcohol/drugs](#inappropriate-alcoholdrugs)
   * [Disrupting talks, discussion threads, or other events](#disrupting-talks-discussion-threads-or-other-events)
 - [When you organize an event](#when-you-organize-an-event)
   * [Up front](#up-front)
@@ -190,6 +191,13 @@ These are _not_ acceptable:
 Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public spaces of the community. Specific spaces may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating spaces in the community in which political discussions are appropriate.
 
 Notwithstanding, discussions about _policies_ are generally acceptable. There is a difference between discussing policies in the context of their impact on the community and sharing reactionary comments to recent headlines. While it is acceptable to share reactions generally, reactions to political headlines or controversial topics are only accepted when a group, event, or space identifies as political in nature.
+
+
+### Inappropriate alcohol/drugs
+
+Notwithstanding acceptable discussion and activity involving responsibly-consumed alcohol and legal drugs (including caffeine), misconduct includes discussion or activity which involves excessive use of alcohol or any drug, humor about addiction, suggestions that addiction is acceptable or is not a problem, encouraging illegal drug use, and social pressure in use of any alcohol or drug.
+
+As with politics above, it is acceptable to discuss drug-related policies and to advocate for creating spaces in the community where participants can opt into discussions which risk drug-related discussion misconduct.
 
 
 ### Disrupting talks, discussion threads, or other events
