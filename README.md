@@ -106,7 +106,9 @@ Community members have authored this code of conduct. This is not a legal guide,
 
 **In a health/safety or similar emergency, dial 911.**
 
-Contact an organizer when you notice a health/safety issue, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+Contact an organizer when you notice a health/safety issue, someone in distress, or violations of this code of conduct, even if they seem inconsequential. By informing an organizer, you are not "getting someone into trouble" but engaging someone familiar with the code of conduct in the shared commitment to provide a safe, inclusive, and accessible group/event.
+
+Use your own judgement on how to step in and assist others. Only do so as you are safely able and when such assistance is welcomed by others.
 
 Note that, for the purpose of the code of conduct, "an organizer" is anyone who regularly organizes groups/events with this code of conduct. This applies even when that organizer is not organizing _this_ group/event, with priority given to the organizers who are.
 
