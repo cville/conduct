@@ -44,6 +44,7 @@ Charlottesville, Virginia, USA:
   * [References to sexual or other not-suitable-for-work (NSFW) topics](#references-to-sexual-or-other-not-suitable-for-work-nsfw-topics)
   * [Repeating invitations](#repeating-invitations)
   * [Discussing national politics in public spaces](#discussing-national-politics-in-public-spaces)
+  * [Disrespect of religion or spirituality](#disrespect-of-religion-or-spirituality)
   * [Disrupting talks, discussion threads, or other events](#disrupting-talks-discussion-threads-or-other-events)
 - [When you organize an event](#when-you-organize-an-event)
   * [Up front](#up-front)
@@ -190,6 +191,13 @@ These are _not_ acceptable:
 Unless a group or event identifies as political in nature, misconduct includes discussion or views of national politics in public spaces of the community. Specific spaces may be identified as preferring political discussion, for which such discussion is acceptable. It is acceptable to advocate for creating spaces in the community in which political discussions are appropriate.
 
 Notwithstanding, discussions about _policies_ are generally acceptable. There is a difference between discussing policies in the context of their impact on the community and sharing reactionary comments to recent headlines. While it is acceptable to share reactions generally, reactions to political headlines or controversial topics are only accepted when a group, event, or space identifies as political in nature.
+
+
+### Disrespect of religion or spirituality
+
+Unless a group or event identifies as religious or spiritual in nature, misconduct includes recruitment into a religious or spiritual organization or belief system in public spaces of the community. Specific spaces may be identified as preferring religious or spiritual discussion or activity, for which such recruitment may be advertised as acceptable.
+
+It is acceptable to state or convey religious or spiritual beliefs, or advocate for creating religious or spiritual spaces in the community, permitted that such discussions and activities are in line with the rest of the code of conduct. Specifically, do not speak or act with assumption that one religious or spiritual belief is dominant, engage in political discussion outside of what is deemed acceptable in the section on politics above, repeat invitations to those who have opted out, discriminate against other beliefs, or using "religion" as an excuse to engage in misconduct named in this code of conduct.
 
 
 ### Disrupting talks, discussion threads, or other events
