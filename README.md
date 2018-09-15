@@ -99,7 +99,7 @@ Community members have authored this code of conduct. This is not a legal guide,
 1. **Prioritize your own well-being** over what the community might need. We are committed to providing you support, and you can seek that support in a manner which matches your preferences or needs. We are here to provide a safe, inclusive, and accessible experience for you to continue participating in the community.
 2. **As you are able, disengage** from the misconduct.
 3. **Contact an organizer.** You have a right to be respected. You are _not_ being "oversensitive" or a burden by speaking up.
-4. **Allow an organizer or designated party to talk with the person** regarding the code of conduct. As you see fit, provide your preferences to the organizer on how to resolve the situation, in a private setting.
+4. **Allow an organizer or designated party to talk with the person** regarding misconduct and the code of conduct. As you see fit, provide your preferences to the organizer on how to resolve the situation, in a private setting.
 5. After the misconduct has been addressed, the organizer will **confirm that the air is clear** and that you once again feel welcome to continue participating in the community. Feel free to reach out to the organizer before they reach back out to you.
 
 
