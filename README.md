@@ -39,6 +39,7 @@ Charlottesville, Virginia, USA:
   * [Compromising health/safety](#compromising-healthsafety)
   * [Violating personal space](#violating-personal-space)
   * [Physical violence](#physical-violence)
+  * [Violating digital security](#violating-digital-security)
   * [Reinforcing social structures of domination](#reinforcing-social-structures-of-domination)
   * [Targeting specific groups](#targeting-specific-groups)
   * [References to sexual or other not-suitable-for-work (NSFW) topics](#references-to-sexual-or-other-not-suitable-for-work-nsfw-topics)
@@ -149,6 +150,13 @@ Misconduct includes deliberate intimidation, unwelcome gestures, unwelcome physi
 ### Physical violence
 
 Misconduct includes depictions of physical violence, suggestions that physical violence is acceptable, humor about physical violence, and threats of physical violence. It is generally acceptable to discuss experiences or events, but present media as opt-in as to avoid presenting depictions of physical violence in public spaces.
+
+
+### Violating digital security
+
+Misconduct includes activities which induce, mislead, or deceive others into increased exposure of privacy and security risks. Privacy and security risks include malware, spyware, viruses and similar exploits, denial of service, using untrusted networks, compromising integrity of digital documents, leaking authentication or session credentials, exposing personal details to others who have malicious intent, exposing private personal details to a wider audience than intended, and disabling measures intended to protect privacy and security.
+
+It is acceptable to engage in activities which increase exposure of privacy and security risks when others are informed and provide consent. Misconduct includes advocating for, or encouraging, any activity which increases exposure to the above privacy and security risks without informed consent.
 
 
 ### Reinforcing social structures of domination
