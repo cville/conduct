@@ -230,8 +230,14 @@ Following the previous section, find consensus with other organizers to remove a
 * compromises others' health or safety
 * has repeat issues or patterns of misconduct
 * engages in unconscionable behavior
-* is identified to be a participant in a hate group
+* is identified to participate in a [SPLC-designated](https://www.splcenter.org/hate-map) hate group
 * exhibits _any reason_ that causes organizers serious concern
+
+The code of conduct uses Southern Poverty Law Center (SPLC) designations because its definition of a hate group aligns with the intent of the code of conduct:
+
+> *What is a hate group?*
+>
+> The SPLC defines a hate group as an organization that – based on its official statements or principles, the statements of its leaders, or its activities – has beliefs or practices that attack or malign an entire class of people, typically for their immutable characteristics.
 
 
 ### When misconduct is public
