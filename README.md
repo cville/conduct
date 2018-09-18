@@ -195,7 +195,7 @@ Notwithstanding, discussions about _policies_ are generally acceptable. There is
 
 ### Disrespect of religion or spirituality
 
-Unless a group or event identifies as religious or spiritual in nature, misconduct includes recruitment into a religious or spiritual organization or belief system in public spaces of the community. Specific spaces may be identified as preferring religious or spiritual discussion or activity, for which such recruitment may be advertised as acceptable.
+Unless a group or event identifies as religious or spiritual in nature, misconduct includes proselytizing for a religious or spiritual organization or belief system in public spaces of the community. Specific spaces may be identified as preferring religious or spiritual discussion or activity, for which such proselytizing may be advertised as acceptable.
 
 It is acceptable to state or convey religious or spiritual beliefs, or advocate for creating religious or spiritual spaces in the community, permitted that such discussions and activities are in line with the rest of the code of conduct. Specifically, do not speak or act with assumption that one religious or spiritual belief is dominant, engage in political discussion outside of what is deemed acceptable in the section on politics above, repeat invitations to those who have opted out, discriminate against other beliefs, or use "religion" as an excuse to engage in misconduct named in this code of conduct.
 
