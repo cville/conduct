@@ -226,7 +226,7 @@ Prioritize health and safety of participants, above all else. With health/safety
 
 ### When addressing misconduct
 
-1. **Seek counsel** with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct. When needed, identify and deputize assistant organizers to assist in resolving an issue.
+1. **Seek counsel** with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct. When needed, identify and deputize assistant organizers to assist in resolving an issue. When others have raised concerns about misconduct, confirm which details are okay to share with other organizers.
 2. **Review again** the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
 3. With fellow organizers, **discuss a plan** to resolve the issue of misconduct. Document details to support the plan.
 4. **Carry out that plan**.
