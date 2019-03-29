@@ -26,6 +26,11 @@ Charlottesville, Virginia, USA:
 * **UVA Health System Emergency Department:** 434-924-2231.
 
 
+## Signing Up to Join the Community?
+
+Read the [Short Version](#the-short-version) above when you are signing up for community activities. The long version follows for clarity and to equip organizers for quick response to any incident or misconduct.
+
+
 ## Table of Contents
 
 - [Scope & Purpose](#scope--purpose)
