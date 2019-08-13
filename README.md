@@ -107,7 +107,7 @@ Community members have authored this code of conduct. This is not a legal guide,
 1. **Prioritize your own well-being** over what the community might need. We are committed to providing you support, and you can seek that support in a manner which matches your preferences or needs. We are here to provide a safe, inclusive, and accessible experience for you to continue participating in the community.
 2. **As you are able, disengage** from the misconduct.
 3. **Contact an organizer.** You have a right to be respected. You are _not_ being "oversensitive" or a burden by speaking up.
-4. **Allow an organizer or designated party to talk with the person** regarding misconduct and the code of conduct. As you see fit, provide your preferences to the organizer on how to resolve the situation, in a private setting.
+4. **Provide your preferences to the organizer on how to resolve the situation**, in a private setting. Your preferences matter. As you see fit, allow an organizer or designated party to talk with the person regarding misconduct and the code of conduct.
 5. After the misconduct has been addressed, the organizer will **confirm that the air is clear** and that you once again feel welcome to continue participating in the community. Feel free to reach out to the organizer before they reach back out to you.
 
 
@@ -232,7 +232,7 @@ Prioritize health and safety of participants, above all else. With health/safety
 ### When addressing misconduct
 
 1. **Seek counsel** with other organizers. Operate on consensus. Recuse yourself if you are affected by misconduct. When needed, identify and deputize assistant organizers to assist in resolving an issue. When others have raised concerns about misconduct, confirm which details are okay to share with other organizers.
-2. **Review again** the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan.
+2. **Review again** the "what to do" sections which speak to the parties involved. Incorporate these steps into your forthcoming plan. Above all, respect preferences shared by those affected by misconduct.
 3. With fellow organizers, **discuss a plan** to resolve the issue of misconduct. Document details to support the plan.
 4. **Carry out that plan**.
 5. Follow up to **ensure that the air is clear** for the person affected, the person with whom you provided feedback on the code of conduct, and for the community.
