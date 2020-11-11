@@ -180,7 +180,7 @@ Note that comments targeting specific groups, particularly when the individual c
 
 ### References to sexual or other not-suitable-for-work (NSFW) topics
 
-Misconduct includes sexual references or images and other topics generally considered not suitable for work (NSFW).
+Unless a group or event identifies as NSFW in nature and ensures all participants are fully informed of that before participating, misconduct includes sexual references or images and other topics generally considered not suitable for work (NSFW).
 
 
 ### Repeating invitations
